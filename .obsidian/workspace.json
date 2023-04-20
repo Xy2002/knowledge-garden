@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "366dce1c03db438f",
+        "id": "6593eece868b60ae",
         "type": "tabs",
         "children": [
           {
-            "id": "83b6db6f5b7d2f7e",
+            "id": "b11eb6a687490ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Cards/HTTP/HTTP报文格式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "久坐",
+                "query": "35.77.211.36",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md"
+                "file": "Cards/HTTP/HTTP报文格式.md"
               }
             }
           },
@@ -101,9 +101,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Cards/HTTP/HTTP报文格式.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Cards/HTTP/HTTP报文格式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,9 +148,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Cards/HTTP/HTTP报文格式.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -163,83 +163,118 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 336.5
   },
   "right": {
     "id": "c718ea3b78af998f",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "ac5865f1b9a84921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2593231eedcbd9d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4de411a2f9535073",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5db3c8fe8892d56",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 386.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "dbfolder:创建一个新数据库表": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "83b6db6f5b7d2f7e",
+  "active": "b11eb6a687490ac5",
   "lastOpenFiles": [
-    "Calendar/Daily notes/Daily notes归档/2022/2022-03-19.md",
-    "🍀 花园导览/🤖 如何用好AIGC工具.md",
-    "🍀 花园导览/🧀 个人知识管理.md",
+    "Cards/HTTP/What is HTTP?.md",
+    "Calendar/Plan/梳理Frontend Roadmap.md",
+    "HOMEPAGE.md",
     "README.md",
-    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/midjouney 令人惊艳的地方.md",
-    "Calendar/Daily notes/2023-04-12.md",
-    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-05.md",
-    "Cards/永久笔记/阿里云-云原生-ACA认证-笔记.md",
-    "Calendar/Daily notes/2023-04-10.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-09.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-04.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-05.md",
-    "Cards/永久笔记/chatgpt 超长对话的技巧.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-01.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-31.md",
-    "Cards/永久笔记/Obsidian 不适合做什么以及其补足配合的软件.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-28.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-25.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-26.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-22.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-21.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-20.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-19.md",
-    "Cards/永久笔记/notion database 如何批量复制粘贴数据.md",
-    "Cards/永久笔记/Super.so.md",
-    "Extras/Media/ChatGPT高质量prompt技巧分享.pdf",
-    "Untitled.table",
-    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
-    "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
-    "Extras/Media/【极客时间】李佳芮：ChatGPT 从0到1.pdf",
-    "Extras/Media/Pasted image 20230305120820.png",
-    "Extras/Media/Pasted image 20230305122456.png",
-    "Extras/Media/Pasted image 20230312131834.png",
-    "Extras/Media/Pasted image 20230317221306.png",
-    "Extras/Media/Pasted image 20230329192147.png",
-    "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
-    "Extras/Media/2022年元宇宙Meta知识精选笔记分享-2022.pdf",
-    "Extras/Media/16799226083092.png",
-    "Extras/Media/1679922749389.jpg",
-    "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
-    "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
-    "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
-    "Sources/Courses/AI大模型之美",
-    "Sources/Courses/Service Mesh实战",
-    "Sources/Courses/深入剖析 Kubernetes",
-    "Atlas/Canvas/PPV人生管理系统.canvas",
-    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
-    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
-    "Sources/Podcasts/Notes",
-    "Sources/Podcasts",
-    "PodNotes_Export1.opml",
-    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
+    "Calendar/Plan/近期计划.md",
+    "Calendar/Plan/近期计划Kanban.md",
+    "Cards/HTTP/HTTP报文格式.md",
+    "Cards/HTTP/How does the internet work?.md",
+    "Extras/Media/http-response-structure.png",
+    "Extras/Media/http-response-structure.png.crdownload",
+    "Cards/HTTP/白板 2023-04-20.md",
+    "Extras/Media/http-request-structure.png",
+    "Extras/Media/http-request-structure.png.crdownload",
+    "Atlas/Canvas/未命名.canvas",
+    "Calendar/Daily notes/2023/2023-04-20.md",
+    "Extras/Draws/白板 2023-04-20.md",
+    "Extras/Draws/白板 2023-04-20.light.svg",
+    "Extras/Draws/白板 2023-04-20.dark.svg",
+    "Extras/Draws/白板 2023-04-20_0.md",
+    "Cards/HTTP/未命名",
+    "Atlas/Canvas/Frontend Roadmap.canvas",
+    "Calendar/Plan/学习Rust.md",
+    "Atlas/Dataviews/宏观数据.md",
+    "Atlas/About Atlas.md",
+    "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-12_10.29.27.png",
+    "Cards/HTTP",
+    "Atlas/Draws/未命名.canvas",
+    "Atlas/Canvas",
+    "Atlas/Draws/未命名.md",
+    "Extras/Draws/Front-end Roadmap.md",
+    "Extras/Draws/Front-end Roadmap.light.svg",
+    "Extras/Draws/Front-end Roadmap.dark.svg",
+    "Cards/Frontend/React",
+    "Cards/Frontend/Vue",
+    "Cards/Frontend/CSS",
+    "Cards/Frontend/Algorithm",
+    "Cards/Frontend/JavaScript",
+    "Cards/Frontend/未命名.md",
+    "Cards/Frontend/Rust/变量绑定与解构.md",
+    "Calendar/Daily notes/2023/未命名.md",
+    "最佳实践.md",
+    "Extras/Templates/Calendar模板/Daily notes模板.md",
+    "Calendar/Daily notes/2023/2023-04-19.md",
+    "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md",
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-写在最后模板.md",
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md",
+    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "Extras/Media/Untitled 1 4.png",
+    "Extras/Media/Untitled 14.png",
+    "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-25_11.22.33.png",
+    "Atlas/Canvas/未命名 3.canvas",
+    "Atlas/Canvas/未命名 2.canvas",
+    "Atlas/Canvas/未命名 1.canvas",
     "Atlas/Canvas/canvas尝试当做ppt的可行性.canvas",
-    "Atlas/Draws/白板 2023-03-11.dark.svg",
-    "Atlas/Draws/白板 2023-03-11.light.svg"
+    "Atlas/Canvas/PPV人生管理系统.canvas"
   ]
 }

@@ -12,7 +12,6 @@
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
-    "showFileNameInFileLink": true,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": true,
@@ -21,11 +20,14 @@
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "+++",
     "multilineReversedCardSeparator": "",
+    "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#复习回顾/常青笔记",
-      "#复习回顾",
-      "#习惯养成"
+      "#react",
+      "#vue",
+      "#rust",
+      "#javascipt",
+      "#typescript"
     ],
     "noteFoldersToIgnore": [
       "🍀 花园导览",
@@ -42,10 +44,11 @@
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
     "showDebugMessages": false,
+    "showFileNameInFileLink": true,
     "singlelineCardSeparator": "??",
     "singlelineReversedCardSeparator": "???"
   },
-  "buryDate": "2022-12-25",
+  "buryDate": "2023-04-20",
   "buryList": [],
   "historyDeck": null
 }

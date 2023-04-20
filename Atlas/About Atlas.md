@@ -1,6 +1,6 @@
 ---
 date created: 2022-06-23
-date modified: 2023-03-14
+date modified: 2023-04-19
 tags:
   - 本库教程
 title: About Atlas
@@ -24,3 +24,12 @@ The Atlas folder contains your Maps of Content (MOCs).
 You'll usually navigate to them using your [[Home]] note, but keeping them in a folder away from your ever-growing note collection allows you to maintain them more easily as well as quickly navigate between them using the sidebar.
 
 These notes are so important, they truly deserve their own folder.
+
+### 翻译
+Atlas是 "地图的地图"。
+
+Atlas文件夹包含你的MOCs
+
+你通常会用你的[[主页]]注释来浏览它们，但把它们放在一个远离你不断增长的注释集的文件夹里，可以让你更容易地维护它们，并使用侧边栏在它们之间快速导航。
+
+这些笔记是如此重要，它们确实值得拥有自己的文件夹。

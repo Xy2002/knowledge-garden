@@ -56,5 +56,6 @@
   ],
   "mobilePullAction": "command-palette:open",
   "mobileQuickRibbonItem": "daily-notes:打开/创建今天的日记",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "defaultViewMode": "source"
 }

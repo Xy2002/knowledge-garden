@@ -11,6 +11,8 @@
   "daily-notes",
   "note-composer",
   "command-palette",
+  "slash-command",
+  "markdown-importer",
   "outline",
   "word-count",
   "workspaces",

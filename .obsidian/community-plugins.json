@@ -14,8 +14,13 @@
   "obsidian-advanced-uri",
   "obsidian-image-auto-upload-plugin",
   "novel-word-count",
-  "chatgpt-md",
-  "smart-connections",
   "chronology",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-pangu",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "dbfolder",
+  "keyboard-analyzer",
+  "smart-connections",
+  "obsidian-kanban"
 ]

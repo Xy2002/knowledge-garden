@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2aa114cb2042d832","x":-87,"y":22,"width":250,"height":60,"type":"text","text":"Front-end"},
+		{"id":"9ca415fcc9a969ee","x":-87,"y":165,"width":250,"height":60,"color":"1","type":"text","text":"Internet"},
+		{"id":"3843e2db97702293","x":-457,"y":90,"width":250,"height":58,"color":"2","type":"text","text":"[[How does the internet work?]]"},
+		{"id":"4f188543d1608054","x":-457,"y":164,"width":250,"height":60,"color":"2","type":"text","text":"What is HTTP?"},
+		{"id":"c550ece06f7bc687","x":-455,"y":239,"width":250,"height":60,"color":"2","type":"text","text":"Browser and how they work?"},
+		{"id":"e010095f318c40a5","x":243,"y":239,"width":250,"height":60,"color":"2","type":"text","text":"What is hosting?"},
+		{"id":"1f41259dcb000b24","x":241,"y":165,"width":250,"height":60,"color":"2","type":"text","text":"What is Domain Name?"},
+		{"id":"e62ece21fd3137e7","x":241,"y":90,"width":250,"height":60,"color":"2","type":"text","text":"DNS and how it works?"}
+	],
+	"edges":[
+		{"id":"3e2c773cb5183428","fromNode":"2aa114cb2042d832","fromSide":"bottom","toNode":"9ca415fcc9a969ee","toSide":"top"},
+		{"id":"c70947de41545a75","fromNode":"9ca415fcc9a969ee","fromSide":"left","toNode":"3843e2db97702293","toSide":"right"},
+		{"id":"dd52969a4b1c3445","fromNode":"9ca415fcc9a969ee","fromSide":"left","toNode":"4f188543d1608054","toSide":"right"},
+		{"id":"7abd346cd302c7c0","fromNode":"9ca415fcc9a969ee","fromSide":"left","toNode":"c550ece06f7bc687","toSide":"right"},
+		{"id":"ccc8ed6fafe38987","fromNode":"9ca415fcc9a969ee","fromSide":"right","toNode":"e62ece21fd3137e7","toSide":"left"},
+		{"id":"456d1ebab45c5a05","fromNode":"9ca415fcc9a969ee","fromSide":"right","toNode":"1f41259dcb000b24","toSide":"left"},
+		{"id":"27b1f25865f76aaa","fromNode":"9ca415fcc9a969ee","fromSide":"right","toNode":"e010095f318c40a5","toSide":"left"}
+	]
+}
