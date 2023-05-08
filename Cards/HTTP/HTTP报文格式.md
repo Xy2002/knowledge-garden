@@ -207,3 +207,8 @@ alt-svc: quic=":443";ma=2592000;v="36,35,34"
 ### 响应体
 
 响应体也就是网页的正文内容，一般在响应头中会用 Content-Length 来明确响应体的长度，便于浏览器接收，对于大数据量的正文信息，也会使用 `chunked` 的编码方式。
+
+## 参考文献
+
+[HTTP请求报文和HTTP响应报文 - as\_ - 博客园](https://www.cnblogs.com/biyeymyhjob/archive/2012/07/28/2612910.html)  
+[HTTP 报文格式 - JavaScript Guidebook](https://tsejx.github.io/javascript-guidebook/computer-networks/http/http-message/#%E8%AF%B7%E6%B1%82%E5%A4%B4)

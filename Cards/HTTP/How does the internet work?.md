@@ -4,8 +4,6 @@ date created: 2023-04-20
 date modified: 2023-04-20
 ---
 
-摘自 [How does the internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-
 ### 一个简单的网络
 
 当两台计算机需要通信时，你必须将它们连接起来，要么是物理连接（通常用以太网电缆），要么是无线连接（例如用Wi-Fi或蓝牙系统）。所有现代计算机都可以维持其中任何一种连接。
@@ -53,3 +51,8 @@ date modified: 2023-04-20
 ### 互联网和网络
 
 你可能注意到，当我们用网络浏览器浏览网页时，我们通常使用域名来到达一个网站。这是否意味着互联网和网络是同一回事？并非如此简单。正如我们所看到的，互联网是一个技术基础设施，它允许数十亿台计算机全部连接在一起。在这些计算机中，一些计算机（称为网络服务器）可以向网络浏览器发送可理解的信息。互联网是一种基础设施，而网络则是建立在基础设施之上的一种服务。值得注意的是，还有其他一些建立在互联网之上的服务，如电子邮件和IRC。
+
+
+## 参考文献
+
+[How does the internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)

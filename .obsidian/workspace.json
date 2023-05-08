@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6593eece868b60ae",
+        "id": "1a9e5c6545865f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "b11eb6a687490ac5",
+            "id": "b64ffde8b6d5301c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cards/HTTP/TCP 协议.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cards/HTTP/TCP 协议.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cards/HTTP/TCP 协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Cards/HTTP/TCP 协议.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cards/HTTP/TCP 协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,27 +182,43 @@
             }
           },
           {
-            "id": "4de411a2f9535073",
+            "id": "08cbd91e1d65c7d3",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "chronology-calendar-view",
               "state": {}
             }
           },
           {
-            "id": "d5db3c8fe8892d56",
+            "id": "bf89bb015d9b2aa5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "be3066c167cc2822",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "184ca9ada2aae7be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,59 +234,59 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b11eb6a687490ac5",
+  "active": "b64ffde8b6d5301c",
   "lastOpenFiles": [
-    "HOMEPAGE.md",
-    "Cards/HTTP/HTTP报文格式.md",
-    "Cards/HTTP/What is HTTP?.md",
-    "Calendar/Plan/梳理Frontend Roadmap.md",
-    "README.md",
-    "Calendar/Plan/近期计划.md",
-    "Calendar/Plan/近期计划Kanban.md",
+    "Extras/Media/tcp-connection-closed-four-way-handshake.png",
+    "Extras/Media/tcp-connection-closed-four-way-handshake.png.crdownload",
+    "Cards/HTTP/浏览器工作原理.md",
+    "Calendar/Daily notes/2023/2023-05-08.md",
+    "Cards/HTTP/TCP 协议.md",
+    "Extras/Media/tcp-connection-made-three-way-handshake.png",
+    "Cards/HTTP/DNS查询.md",
+    "Calendar/Daily notes/2023/2023-05-04.md",
+    "Calendar/Daily notes/2023/2023-05-07.md",
+    "Calendar/Daily notes/2023/2023-05-06.md",
+    "Calendar/Daily notes/2023/2023-05-09.md",
+    "Calendar/Daily notes/2023/2023-05-10.md",
     "Cards/HTTP/How does the internet work?.md",
+    "Cards/HTTP/What is HTTP?.md",
+    "Untitled.table",
+    "未命名.md",
+    "Calendar/Plan/近期计划.md",
+    "Calendar/Plan/Frontend Roadmap.md",
+    "README.md",
+    "HOMEPAGE.md",
+    "Extras/Media/browser_components.png",
+    "Extras/Media/browser_components.avif",
+    "Extras/Media/browseer_components.avif",
+    "Atlas/Canvas/Frontend Roadmap.canvas",
+    "Calendar/Daily notes/2022/2022-10-28.md",
+    "Calendar/Daily notes/2023/2023-05-05.md",
+    "Cards/HTTP/HTTP报文格式.md",
     "Extras/Media/http-response-structure.png",
+    "Extras/Media/http-request-structure.png",
+    "Extras/Media/http-request-structure.png",
+    "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-12_10.29.27.png",
+    "Calendar/Daily notes/2023/2023-04-20.md",
+    "Calendar/Plan/近期计划Kanban.md",
     "Extras/Media/http-response-structure.png.crdownload",
     "Cards/HTTP/白板 2023-04-20.md",
-    "Extras/Media/http-request-structure.png",
     "Extras/Media/http-request-structure.png.crdownload",
     "Atlas/Canvas/未命名.canvas",
-    "Calendar/Daily notes/2023/2023-04-20.md",
     "Extras/Draws/白板 2023-04-20.md",
     "Extras/Draws/白板 2023-04-20.light.svg",
     "Extras/Draws/白板 2023-04-20.dark.svg",
     "Extras/Draws/白板 2023-04-20_0.md",
     "Cards/HTTP/未命名",
-    "Atlas/Canvas/Frontend Roadmap.canvas",
     "Calendar/Plan/学习Rust.md",
-    "Atlas/Dataviews/宏观数据.md",
-    "Atlas/About Atlas.md",
-    "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-12_10.29.27.png",
     "Cards/HTTP",
     "Atlas/Draws/未命名.canvas",
     "Atlas/Canvas",
-    "Atlas/Draws/未命名.md",
-    "Extras/Draws/Front-end Roadmap.md",
     "Extras/Draws/Front-end Roadmap.light.svg",
     "Extras/Draws/Front-end Roadmap.dark.svg",
     "Cards/Frontend/React",
-    "Cards/Frontend/Vue",
-    "Cards/Frontend/CSS",
-    "Cards/Frontend/Algorithm",
-    "Cards/Frontend/JavaScript",
-    "Cards/Frontend/未命名.md",
-    "Cards/Frontend/Rust/变量绑定与解构.md",
-    "Calendar/Daily notes/2023/未命名.md",
-    "最佳实践.md",
-    "Extras/Templates/Calendar模板/Daily notes模板.md",
-    "Calendar/Daily notes/2023/2023-04-19.md",
-    "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md",
-    "Extras/Templates/Calendar模板/文章发布模板/发文章-写在最后模板.md",
-    "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
-    "Extras/Media/Untitled 1 4.png",
-    "Extras/Media/Untitled 14.png",
-    "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-25_11.22.33.png",
     "Atlas/Canvas/未命名 3.canvas",
     "Atlas/Canvas/未命名 2.canvas",
     "Atlas/Canvas/未命名 1.canvas",
