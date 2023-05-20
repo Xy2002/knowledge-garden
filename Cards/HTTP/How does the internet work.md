@@ -1,5 +1,5 @@
 ---
-title: How does the internet work?
+title: How does the internet work
 date created: 2023-04-20
 date modified: 2023-04-20
 ---

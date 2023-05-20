@@ -1,5 +1,5 @@
 ---
-title: What is HTTP?
+title: What is HTTP
 date created: 2023-04-20
 date modified: 2023-04-20
 ---
