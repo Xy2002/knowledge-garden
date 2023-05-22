@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9e5c6545865f5f",
+        "id": "1d8c5451b2fe5116",
         "type": "tabs",
         "children": [
           {
-            "id": "b64ffde8b6d5301c",
+            "id": "38ecc4d3f771dae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/HTTP/TCP 协议.md",
+                "file": "Cards/Frontend/浏览器工作原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "35.77.211.36",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/HTTP/TCP 协议.md"
+                "file": "Cards/Frontend/浏览器工作原理.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/HTTP/TCP 协议.md",
+                "file": "Cards/Frontend/浏览器工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/HTTP/TCP 协议.md",
+                "file": "Cards/Frontend/浏览器工作原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/HTTP/TCP 协议.md",
+                "file": "Cards/Frontend/浏览器工作原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,14 +174,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2593231eedcbd9d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "08cbd91e1d65c7d3",
             "type": "leaf",
             "state": {
@@ -190,7 +182,23 @@
             }
           },
           {
-            "id": "bf89bb015d9b2aa5",
+            "id": "f48267834e3968eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b792deaf3e9852b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cfbe4b04fc0906b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -198,18 +206,10 @@
             }
           },
           {
-            "id": "be3066c167cc2822",
+            "id": "35af1ebd92d4c3d5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "184ca9ada2aae7be",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -223,24 +223,37 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "obsidian-spaced-repetition:复习卡片": false,
       "dbfolder:创建一个新数据库表": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "b64ffde8b6d5301c",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
+    "Cards/Frontend/Browser",
+    "Calendar/Plan/Frontend Roadmap.md",
+    "Cards/Frontend/浏览器工作原理.md",
+    "Cards/HTTP/How does the internet work.md",
+    "Calendar/Plan/How does the internet work?.md",
+    "Calendar/Plan/What is HTTP?.md",
+    "Extras/Templates/其他/模板来源.md",
+    "Extras/Templates/其他/领域入门模板.md",
+    "Atlas/Dataviews/宏观数据.md",
+    "README.md",
+    "Calendar/Daily notes/2023/2023-05-22.md",
+    "Cards/HTTP/What is HTTP.md",
+    "Calendar/Daily notes/2023/2023-05-13.md",
+    "Calendar/Plan/近期计划.md",
+    "Cards/HTTP/TCP 协议.md",
     "Extras/Media/tcp-connection-closed-four-way-handshake.png",
     "Extras/Media/tcp-connection-closed-four-way-handshake.png.crdownload",
-    "Cards/HTTP/浏览器工作原理.md",
     "Calendar/Daily notes/2023/2023-05-08.md",
-    "Cards/HTTP/TCP 协议.md",
     "Extras/Media/tcp-connection-made-three-way-handshake.png",
     "Cards/HTTP/DNS查询.md",
     "Calendar/Daily notes/2023/2023-05-04.md",
@@ -252,38 +265,25 @@
     "Cards/HTTP/What is HTTP?.md",
     "Untitled.table",
     "未命名.md",
-    "Calendar/Plan/近期计划.md",
-    "Calendar/Plan/Frontend Roadmap.md",
-    "README.md",
     "HOMEPAGE.md",
     "Extras/Media/browser_components.png",
     "Extras/Media/browser_components.avif",
     "Extras/Media/browseer_components.avif",
     "Atlas/Canvas/Frontend Roadmap.canvas",
-    "Calendar/Daily notes/2022/2022-10-28.md",
-    "Calendar/Daily notes/2023/2023-05-05.md",
-    "Cards/HTTP/HTTP报文格式.md",
     "Extras/Media/http-response-structure.png",
     "Extras/Media/http-request-structure.png",
     "Extras/Media/http-request-structure.png",
     "Extras/Media/%E6%88%AA%E5%B1%8F2022-10-12_10.29.27.png",
-    "Calendar/Daily notes/2023/2023-04-20.md",
-    "Calendar/Plan/近期计划Kanban.md",
     "Extras/Media/http-response-structure.png.crdownload",
-    "Cards/HTTP/白板 2023-04-20.md",
     "Extras/Media/http-request-structure.png.crdownload",
     "Atlas/Canvas/未命名.canvas",
-    "Extras/Draws/白板 2023-04-20.md",
     "Extras/Draws/白板 2023-04-20.light.svg",
     "Extras/Draws/白板 2023-04-20.dark.svg",
-    "Extras/Draws/白板 2023-04-20_0.md",
     "Cards/HTTP/未命名",
-    "Calendar/Plan/学习Rust.md",
     "Cards/HTTP",
     "Atlas/Draws/未命名.canvas",
     "Atlas/Canvas",
     "Extras/Draws/Front-end Roadmap.light.svg",
-    "Extras/Draws/Front-end Roadmap.dark.svg",
     "Cards/Frontend/React",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",

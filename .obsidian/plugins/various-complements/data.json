@@ -3,6 +3,7 @@
   "cedictPath": "./Extras/Others/cedict_ts.u8",
   "matchStrategy": "partial",
   "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
@@ -58,99 +59,11 @@
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
   "disableOnMobile": true,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "GTD": {
-      "GTD": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679220970769
-        }
-      }
-    },
-    "中图法": {
-      "中图法": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679221776081
-        }
-      }
-    },
-    "co-tip": {
-      "co-tip": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679320141477
-        }
-      }
-    },
-    "ai-translate": {
-      "ai-translate": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1680869772012
-        }
-      }
-    },
-    "在劫难逃": {
-      "在劫难逃": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681719827441
-        }
-      }
-    },
-    "的奇妙冒险": {
-      "的奇妙冒险": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681806506153
-        }
-      }
-    },
-    "date": {
-      "date": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681897891364
-        }
-      }
-    },
-    "date modified: 2022-08-10": {
-      "date modified: 2022-08-10": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1681897894450
-        }
-      }
-    },
-    "## 翻译": {
-      "## 翻译": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1681898023946
-        }
-      }
-    },
-    "mermaid flow chart 模板": {
-      "mermaid flow chart 模板": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681905912871
-        }
-      }
-    },
-    "HTTP报文格式": {
-      "HTTP报文格式": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681988048267
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }

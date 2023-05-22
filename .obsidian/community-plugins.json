@@ -1,6 +1,5 @@
 [
   "obsidian-linter",
-  "various-complements",
   "obsidian-spaced-repetition",
   "obsidian-auto-link-title",
   "obsidian-better-command-palette",
@@ -24,5 +23,7 @@
   "smart-connections",
   "obsidian-kanban",
   "obsidian-outliner",
-  "calendar"
+  "calendar",
+  "obsidian-version-history-diff",
+  "calendar-beta"
 ]

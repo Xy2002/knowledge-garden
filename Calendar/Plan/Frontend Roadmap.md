@@ -5,9 +5,9 @@ date modified: 2023-04-20
 ---
 
 - 网络
-	- [[How does the internet work?]]
-	- [[What is HTTP?]]
-	- 浏览器的工作原理？
+	- [[How does the internet work]]
+	- [[What is HTTP]]
+	- [[浏览器工作原理]]
 	- DNS的工作原理
 	- 什么是域名
 	- 什么是web托管服务
